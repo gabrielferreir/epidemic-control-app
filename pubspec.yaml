@@ -22,6 +22,14 @@ dependencies:
   cupertino_icons: ^0.1.2
   google_maps_flutter: ^0.5.13
   geolocator:
+  rxdart: ^0.21.0
+  http: ^0.12.0+1
+  shared_preferences: ^0.5.1+2
+  bloc: ^0.12.0
+  flutter_bloc: ^0.11.0
+  meta: ^1.1.6
+  equatable: ^0.2.3
+  path: ^1.6.2
 
 dev_dependencies:
   flutter_test:
